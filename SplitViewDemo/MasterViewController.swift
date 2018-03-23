@@ -2,7 +2,7 @@
 //  MasterViewController.swift
 //  SplitViewDemo
 //
-//  Created by Mohamed Sobhi  Fouda on 3/18/18.
+//  Created by Mohamed Sobhi  Fouda on 3/23/18.
 //  Copyright © 2018 Mohamed Sobhi Fouda. All rights reserved.
 //
 
