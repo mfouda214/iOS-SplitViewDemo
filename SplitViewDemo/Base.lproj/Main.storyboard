@@ -67,7 +67,7 @@
                                     </subviews>
                                 </tableViewCellContentView>
                                 <connections>
-                                    <segue destination="Szx-Tg-v2U" kind="showDetail" identifier="ShowDetail" trigger="accessoryAction" id="Uis-mC-Vfj"/>
+                                    <segue destination="Szx-Tg-v2U" kind="showDetail" identifier="ShowDetail" id="MTy-8A-4Ky"/>
                                 </connections>
                             </tableViewCell>
                         </prototypes>
@@ -131,6 +131,6 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="Uis-mC-Vfj"/>
+        <segue reference="MTy-8A-4Ky"/>
     </inferredMetricsTieBreakers>
 </document>
