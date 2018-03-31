@@ -9,11 +9,22 @@
 import UIKit
 
 class DetailViewController: UIViewController {
-
+   
+    // MARK: - Variables
+    
+    var item: Item?
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
+        
+        if let detailItem = self.item {
+            navigationItem.title = detailItem.title
+            detailViewLabel.text = detailItem.text
+        }
+        
     }
 
     override func didReceiveMemoryWarning() {
