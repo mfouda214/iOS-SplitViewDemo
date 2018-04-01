@@ -39,7 +39,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="flU-g3-iOy" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1286" y="386"/>
+            <point key="canvasLocation" x="1286" y="493"/>
         </scene>
         <!--Items-->
         <scene sceneID="4zN-Tq-YiN">
@@ -76,7 +76,7 @@
                             <outlet property="delegate" destination="MQY-8Z-tFr" id="YoY-1k-8V1"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" title="Root View Controller" id="6ZY-vT-0mi"/>
+                    <navigationItem key="navigationItem" title="Root" id="6ZY-vT-0mi"/>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="iAB-w7-br8" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -127,7 +127,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="8iJ-1c-qNa" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="336" y="386.8065967016492"/>
+            <point key="canvasLocation" x="330" y="493"/>
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
